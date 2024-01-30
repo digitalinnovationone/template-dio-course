@@ -25,15 +25,14 @@
         <p align="center">Expert</p>
         <a href="https://github.com/felipeAguiarCode">
         <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-        <sub>@felipeAguiarCode</sub>
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10+ de expertise em sistemas comerciais com .NET C# e NODE.JS.
+    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
       <br/>
      🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
       <br/>
-    👨‍💻Foco em front-ends SPA com React, Angular e Vue.js
+    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
     </p>
       <a 
       href="https://www.linkedin.com/in/felipe-me/" 
@@ -56,6 +55,9 @@
 </thead>
 </table>
 <!--  -->
+
+<br/>
+<br/>
 
 ## 💻 Sobre o Projeto
 
@@ -97,11 +99,6 @@ Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 - [Projetos ou soluções que os estudantes estarão aptos a construir]
 
 <!--START_SECTION:footer-->
-<br/>
-<br/>
-<p align="center">
-  ⌨️ Make the Change
-</p>
 
 <br />
 <br />
