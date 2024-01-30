@@ -1,12 +1,16 @@
-🌟 **Todo conteúdo, deve seguir o roteiro de aula inicial:**
+🌟 **Guideline para cursos:**
 
--------------------------------
+----------------------------------------------------------------------
+🎥 ** 1. Guia de aula inicial de conteúdos **
+----------------------------------------------------------------------
+
+Formato:
 🧑‍🏫 Nome da aula: introdução
 🕑 Tempo máxima: 10 min
 🎥 Em tela: Expert e o conteúdo do Readme.md lado a lado
 -------------------------------
 
-Roteiro da aula de introdução:
+Roteiro:
 
 - (1) Se apresente como especialista
 - (2) fala o título do curso ou projeto e o nível de conhecimento (básico, intermediário, avançado ou especialista), 
@@ -15,8 +19,9 @@ Roteiro da aula de introdução:
 - (5) Descreva as sub-habilidades ou habilidades prévias requeridas com o nível de conhecimento (básico, intermediário, avançado ou especialista) para o curso ou projeto e 
 - (6) Explique o que o estudante estará apto a fazer após concluir o curso ou projeto, ou que tipo de projeto/solução ele estará apto a construir.
 
-🎥 **Boas Práticas na hora de gravar**
-
+----------------------------------------------------------------------
+🎥 ** 3. Boas Práticas na hora de gravar **
+----------------------------------------------------------------------
 ✅ TENHA EM MENTE SEMPRE:
   - Os conteúdos podem ser consumidos e devem funcionar isoladamente
 
